@@ -14,3 +14,7 @@ Clone the repository and run the cpp file using the command
 2) "STL Library" for Vectors and Queues (#include <bits/stdc++.h>)
 ```
 
+### Authors
+* [Kaushik Naraynan](https://github.com/kaushikn07)
+* [Abhijith Ajith](https://github.com/AAbhijithA)
+
