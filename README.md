@@ -9,6 +9,8 @@ Clone the repository and run the cpp file using the command
 ```
 
 ## Libraries used
->* OpenMP (#include <omp.h>)
->* STL Library (#include <bits/stdc++.h>)
+```
+1) "OpenMP" for Parallelism (#include <omp.h>)
+2) "STL Library" for Vectors and Queues (#include <bits/stdc++.h>)
+```
 
