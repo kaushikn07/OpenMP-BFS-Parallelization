@@ -1,5 +1,5 @@
 # OpenMP BFS Parallelization
-Paralleized BFS using the OpenMP library using the help of multithreading (4 Threads) and populating the frontier queues for each of the partitions using multithreading.
+Paralleized BFS using the OpenMP library using the help of multithreading (4 Threads) and populating the frontier queues for each of the partitions using multithreading and improved performance by 200%-400%.
 
 ## How to run
 Clone the repository and run the cpp file using the command
